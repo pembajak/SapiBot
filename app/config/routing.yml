@@ -1,0 +1,11 @@
+babbicool_sapi_skout:
+    resource: "@BabbicoolSapiSkoutBundle/Resources/config/routing.yml"
+    prefix:   /
+
+babbicool_sapi_core:
+    resource: "@BabbicoolSapiCoreBundle/Resources/config/routing.yml"
+    prefix:   /
+
+app:
+    resource: "@AppBundle/Controller/"
+    type:     annotation

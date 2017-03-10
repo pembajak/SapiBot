@@ -1,0 +1,3 @@
+babbicool_sapi_core_homepage:
+    path:     /
+    defaults: { _controller: BabbicoolSapiCoreBundle:Default:index }

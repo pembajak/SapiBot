@@ -1,0 +1,4 @@
+services:
+#    babbicool_sapi_core.example:
+#        class: Babbicool\Sapi\CoreBundle\Example
+#        arguments: ["@service_id", "plain_value", "%parameter%"]

@@ -1,0 +1,3 @@
+babbicool_sapi_skout_homepage:
+    path:     /
+    defaults: { _controller: BabbicoolSapiSkoutBundle:Default:index }
