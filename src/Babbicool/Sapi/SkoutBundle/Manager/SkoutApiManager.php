@@ -25,7 +25,6 @@ class SkoutApiManager {
     public $curl = null;
     public $SESSION_ID = "";
 
-
     public function __construct() {
         $this->cookie_file = String::gen_uuid() . "_" . $this->cookie_file;
         $this->curl = new Curl();
