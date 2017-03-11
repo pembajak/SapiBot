@@ -1,4 +1,9 @@
-Sapi
+SapiBot (Chat and Comment Bot for Skout/Flurv) 
 ====
+Install ffmpeg https://ffmpeg.org/ to resolve reCapcha 
 
-A Symfony project created on March 6, 2017, 9:48 am.
+CONTACT ME TO GET SIGNATURE KEYS [pembajakanya@gmail.com] 
+
+## Credits:
+* [All Indonesian Skout member ]
+
